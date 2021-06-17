@@ -1,7 +1,6 @@
-# React-Hackerrank-Certification
-Solutions to hackerrank "React" certification
 
-# React: Slideshow App
+
+# 1) React: Slideshow App
 
 ## Environment 
 
